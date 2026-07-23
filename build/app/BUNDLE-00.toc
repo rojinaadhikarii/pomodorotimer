@@ -1,0 +1,1 @@
+([('app', '/Users/rojinaadhikari/pomodorotimer/dist/app', 'EXECUTABLE')],)

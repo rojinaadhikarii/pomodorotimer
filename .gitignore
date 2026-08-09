@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local database
+pomodoro.db
+*.db
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store

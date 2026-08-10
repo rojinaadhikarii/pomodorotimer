@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-# App data directory
+# app data directory
 APP_DIR = Path.home() / ".pomodoro_timer"
 APP_DIR.mkdir(parents=True, exist_ok=True)
 
